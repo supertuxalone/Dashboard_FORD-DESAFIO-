@@ -1,0 +1,24 @@
+1 - coleta de informações de usuários e seu armazenamento seguro são ações regulamentadas pela Lei Geral
+de Proteção de Dados (LGPD) e profissionais de tecnologia da informação estão inseridos neste contexto.
+Sendo assim, considerando que na LGPD existem direitos para os titulares de dados definidos explicitamente,
+assinale a alternativa que está de acordo com a lei.
+
+d. É possível ao titular dos dados a solicitação da portabilidade para outro fornecedor de serviço ou produto.
+
+Conforme artigo 18 da Lei LGPD, é direto do titular do dados a "Portabilidade" de seus dados.
+
+2 - Segundo a Lei Geral de Proteção de Dados (LGPD), “consentimento é a manifestação livre, informada e
+inequívoca pela qual o titular concorda com o tratamento de seus dados pessoais para uma finalidade
+determinada”. Para que ocorra o processamento de dados pessoais é necessário que haja o consentimento
+por parte do titular dos dados. Sendo assim, em qual período deve ocorrer essa etapa?
+
+c. Anterior à coleta de dados pessoais.
+
+O usuario deve ter consentimento atraves de um "termo e condições" dos quais ele dever ter ciencia do seu conteudo 
+e só depois, concordar com a coleta de dados pessoais, pressuposto pela empresa.  
+
+3 - Na Lei Geral de Proteção de Dados Pessoais (LGPD) é feita separação entre dados pessoais e dados pessoais sensíveis. Qual alternativa trata-se de um exemplo de dados pessoais sensíveis?  
+
+d. filiação sindical
+
+Tambem sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso. 
